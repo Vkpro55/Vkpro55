@@ -63,7 +63,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Vkpro55&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak High Contrast" />
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Vkpro55&theme=highcontrast&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak High Contrast" />
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Vkpro55&theme=sunset-gradient&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Sunset Gradient" />
   <br/>
   <br/>
