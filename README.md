@@ -67,6 +67,8 @@
 
 <br/>
 
+<h2 align="center">⚡ Connect With Me ⚡</h2>
+<br>
 <div align="center"> 
   <a href="mailto:vinodrao835@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&count_private=true&theme=react&border_radius=10" alt="streak stats" />
