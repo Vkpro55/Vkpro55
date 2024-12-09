@@ -64,6 +64,7 @@
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Vkpro55&theme=sunset-gradient&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Sunset Gradient" />
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=vkpro55&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats React" />
 
   
 
