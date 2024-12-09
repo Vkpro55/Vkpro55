@@ -70,7 +70,7 @@
 
   <br/><br/>
   <!-- Second image: GitHub Stats with React theme and similar styling -->
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vkpro55&hide=HTML&langs_count=8&layout=compact&theme=sunset-gradient&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Langs Sunset Gradient" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vkpro55&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22%20alt=%22top%20langs" alt="Top Langs Sunset Gradient" />
 
 </div>
 
