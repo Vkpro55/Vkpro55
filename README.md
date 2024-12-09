@@ -10,11 +10,16 @@
 
 <div align="center">
  
- 🔭 I have an immense passion towards Technology, Multi Culture.
-
- ⚡I love JavaScript, React JS, Node, and C++ a lot.
- 
- 🌱 I’m currently learning **Docker, LLM, AWS**
+ 🔭 Passionate about technology and multicultural collaboration.
+⚡ Skilled in JavaScript, React.js, Node.js, C++, and the MERN stack.
+🌱 Currently learning Docker, AWS, and LLMs.
+🧩 Solved 500+ LeetCode problems; strong in DSA and problem-solving.
+🚀 Built impactful projects: real-time chat apps, e-commerce, and management tools.
+📊 Proficient in backend development with Node.js and Django.
+🛠️ Exploring TypeScript, Kubernetes, and scalable systems.
+📚 Contributing to open source and documenting best practices.
+🌍 Thrive in multi-cultural teams and fast-paced environments.
+🎯 Committed to secure coding and delivering user-focused solutions.
 
  </div>
  
