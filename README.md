@@ -11,8 +11,10 @@
 <div align="center">
  
  🔭 I have an immense passion towards Technology, Multi Culture.
+
+ ⚡I love JavaScript, React JS, Node, and C++ a lot.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, LLM, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
