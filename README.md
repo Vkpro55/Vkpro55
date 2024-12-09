@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I have an immense passion towards Technology, Multi Culture.
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
