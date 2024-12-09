@@ -21,9 +21,13 @@
 🚀 Built impactful projects: real-time chat apps, e-commerce, and management tools.
 
 📊 Proficient in backend development with Node.js and Django.
+
 🛠️ Exploring TypeScript, Kubernetes, and scalable systems.
+
 📚 Contributing to open source and documenting best practices.
+
 🌍 Thrive in multi-cultural teams and fast-paced environments.
+
 🎯 Committed to secure coding and delivering user-focused solutions.
 
  </div>
